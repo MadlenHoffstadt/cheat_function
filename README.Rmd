@@ -1,0 +1,22 @@
+
+README
+
+The cheat() function returns an explanation of how to solve certain Python 
+assignments discussed in the "Programming for Psychological Science" taught 
+in January 2022 at Universiteit van Amsterdam.  
+
+Argument can be one of the following: 
+- `"Q 1.2 P1"`   for question 1 of first week assignment
+- `"Q 1.2 P10"`  for question 10 of first week assignment
+- `"Q 2.2 P2"`   for question 2 of second week assignment
+- `"Q 2.2 P3"`   for question 3 of second week assignment
+
+
+AUTHORS
+
+Madlen Hoffstadt, research master student at UvA
+
+
+LICENSE
+
+Feel free to use :-)
